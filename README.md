@@ -5,9 +5,9 @@ This project demonstrates how to use an ESP32 to send data to a MySQL server usi
 
 ## 🧰 **Tools**
 
-- XAMPP [https://www.apachefriends.org/](https://www.apachefriends.org/) for MySQL Server
+- [XAMPP](https://www.apachefriends.org/) for MySQL Server
 - 💻 Editor
-    - This example uses Visual Studio Code [https://code.visualstudio.com/](https://code.visualstudio.com/) (you can also use [Arduino IDE](https://www.arduino.cc/en/software))
+    - This example uses [Visual Studio Code](https://code.visualstudio.com/) (you can also use [Arduino IDE](https://www.arduino.cc/en/software))
     - VScode must have [PlatformIO IDE](https://docs.platformio.org/en/latest/) installed for ESP32 programming
 - 🔨 Hardware
     - ESP32 board
