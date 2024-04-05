@@ -19,7 +19,7 @@ This project demonstrates how to use an ESP32 to send data to a MySQL server usi
 2. Run [PythonServer.py](../blob/main/PythonServer.py) to receive values from the sensor by receiving requests and sending data to the MySQL server
 3. Upload the ESP32 program to measure temperature and humidity and send a request with the measured values
 
-## 🖼️ **Diagrams**
+## 🖼️ **Images**
 
 <div align="center">
   <img src="https://github.com/SonOfThitivas/ESP32-XAMPP-with-Python/assets/83740933/02e1f0b7-b060-449d-bc39-57dd6a7194ab" width="500"/>
